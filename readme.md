@@ -37,6 +37,9 @@ This is a simple docker tutorial for building and running a python Hello World a
 ## 4. Run Docker Image in a Container ##
 ### Terminal ###
 `docker run dockerpythonhelloworld`
+### VS Code ###
+- Right click tagged image and select "Run" (or execute code above)
+- Attach a terminal by right clicking the running container (assuming it is still running) and selecting "Attach Shell"
 ### Docker Desktop ###
 - Open Docker Desktop
 - Select "Images" to see local images (same list as VS Code)
