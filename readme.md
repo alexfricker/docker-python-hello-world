@@ -36,7 +36,7 @@ This is a simple docker tutorial for building and running a python Hello World a
 
 ## 4. Run Docker Image in a Container ##
 ### Terminal ###
-`docker run dockercshelloworld`
+`docker run dockerpythonhelloworld`
 ### Docker Desktop ###
 - Open Docker Desktop
 - Select "Images" to see local images (same list as VS Code)
